@@ -1,6 +1,16 @@
 - 👋 Hi, I’m @JoshuaMcCorkell
-- 👀 I’m interested in Java, Python and Chess.
-- 🌱 I’m intermittently trying to learn some Rust...
+- Languages (In Order:
+- C#
+- Web
+  - TypeScript
+  - JavaScript
+  - HTML
+  - CSS
+  - SCSS
+- Java
+- Python
+- Rust
+- C++
 
 <!---
 JoshuaMcCorkell/JoshuaMcCorkell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
