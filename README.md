@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoshuaMcCorkell
-- Languages (In Order:
+- Languages (In Order):
 - C#
 - Web
   - TypeScript
